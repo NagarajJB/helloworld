@@ -9,4 +9,8 @@ public class HelloWorld {
 		System.out.println(StringUtils.capitalize("hello world"));
 	}
 
+	public void helloWorld() {
+		System.out.println("Hello world from a method");
+	}
+	
 }

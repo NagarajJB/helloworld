@@ -1,5 +1,5 @@
 /*
- * maven-surefile-plugin picks classes starting/ending with name Test and runs methods starting with test
+ * maven-surefile-plugin picks classes starting/ending with name Test and runs methods starting with test, POJO Unit tests
  * 
  */
 public class HelloWorldTest {
